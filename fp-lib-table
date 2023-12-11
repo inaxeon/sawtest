@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name ADT4)(type KiCad)(uri ${KIPRJMOD}/ADT4.pretty)(options "")(descr ""))
+  (lib (name DC_JACK)(type KiCad)(uri ${KIPRJMOD}/DC_JACK.pretty)(options "")(descr ""))
+)

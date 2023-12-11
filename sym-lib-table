@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "transformer_1p_1sct")(type "Legacy")(uri "${KIPRJMOD}/transformer_1p_1sct.lib")(options "")(descr ""))
+  (lib (name "sawtest-rescue")(type "KiCad")(uri "${KIPRJMOD}/sawtest-rescue.kicad_sym")(options "")(descr ""))
+)

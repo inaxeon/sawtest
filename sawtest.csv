@@ -1,0 +1,55 @@
+Title,TV-IF SAW Filter 50Ω Carrier
+Revision,A
+Date,
+Generated,23/09/2023 06:42:16
+Company,Matthew Millman
+Comment 1,
+Comment 2,
+Comment 3,
+Comment 4,
+Total Parts,57
+Total Unique Parts,34
+
+
+
+Ref,Qty,Value,Footprint,Datasheet,
+C1 ,1,10pF,Capacitor_SMD:C_0603_1608Metric,~
+C2 C14 ,2,10uF,Capacitor_SMD:C_1210_3225Metric,~
+C3 ,1,10nF,Capacitor_SMD:C_0603_1608Metric,~
+C4 C5 C7 C10 C12 C18 ,6,0.1,Capacitor_SMD:C_0603_1608Metric,~
+C6 C11 C15 C16 ,4,1nF,Capacitor_SMD:C_0603_1608Metric,~
+C8 C9 ,2,270pF,Capacitor_SMD:C_0603_1608Metric,~
+C13 ,1,22pF,Capacitor_SMD:C_0603_1608Metric,~
+C17 ,1,15pF,Capacitor_SMD:C_0603_1608Metric,~
+D1 ,1,LED,LED_SMD:LED_0805_2012Metric,~
+J1 ,1,INPUT,Connector_Coaxial:SMA_Molex_73251-2200_Horizontal, ~
+J2 ,1,SAWF,Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical,~
+J3 ,1,OUTPUT,Connector_Coaxial:SMA_Molex_73251-2200_Horizontal, ~
+J4 ,1,POWER IN,DC_JACK:DC_JACK,~
+L1 ,1,4.7uH,Inductor_SMD:L_0805_2012Metric,~
+Q1 Q2 Q3 Q4 Q5 Q6 ,6,MMBTH10LT1G,Package_TO_SOT_SMD:SOT-23,~
+R1 R8 R17 R23 ,4,47,Resistor_SMD:R_0603_1608Metric,~
+R2 ,1,470,Resistor_SMD:R_0603_1608Metric,~
+R3 R21 ,2,270,Resistor_SMD:R_0603_1608Metric,~
+R4 ,1,390,Resistor_SMD:R_0603_1608Metric,~
+R5 R20 ,2,10,Resistor_SMD:R_0603_1608Metric,~
+R6 ,1,120,Resistor_SMD:R_0603_1608Metric,~
+R7 ,1,20,Resistor_SMD:R_0603_1608Metric,~
+R9 R10 ,2,91,Resistor_SMD:R_0603_1608Metric,~
+R11 ,1,2K2,Resistor_SMD:R_0603_1608Metric,~
+R12 ,1,3K3,Resistor_SMD:R_0603_1608Metric,~
+R13 R14 ,2,1K2,Resistor_SMD:R_0603_1608Metric,~
+R15 R16 ,2,2K7,Resistor_SMD:R_0603_1608Metric,~
+R18 ,1,56,Resistor_SMD:R_0603_1608Metric,~
+R19 ,1,560,Resistor_SMD:R_0603_1608Metric,~
+R22 ,1,39,Resistor_SMD:R_0603_1608Metric,~
+R24 ,1,R,Resistor_SMD:R_0603_1608Metric,~
+RV1 ,1,220,Potentiometer_SMD:Potentiometer_Bourns_3314G_Vertical,~
+T1 ,1,ADT2-1T+,ADT4:ADT4,~
+U1 ,1,L78L12_SO8,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf
+
+
+
+
+BOM made with KICAD_BOM_WIZARD (https://github.com/HashDefineElectronics/KiCad_BOM_Wizard.git)
+Generated 23/09/2023 06:42:16
